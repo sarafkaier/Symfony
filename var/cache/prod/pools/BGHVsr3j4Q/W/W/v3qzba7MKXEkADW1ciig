@@ -1,0 +1,3 @@
+0
+%255BOC%255CPlatformBundle%255CEntity%255CAdvert%2524content%255D%255B1%255D
+a:2:{i:0;O:48:"Symfony\Component\Validator\Constraints\NotBlank":3:{s:7:"message";s:31:"This value should not be blank.";s:7:"payload";N;s:6:"groups";a:1:{i:0;s:7:"Default";}}i:1;O:37:"OC\PlatformBundle\Validator\Antiflood":3:{s:7:"message";s:88:"Vous avez déjà posté un message il y a moins de 15 secondes, merci d'attendre un peu.";s:7:"payload";N;s:6:"groups";a:1:{i:0;s:7:"Default";}}}
