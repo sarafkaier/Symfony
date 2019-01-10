@@ -47,3 +47,5 @@ feefde,::1,GET,http://localhost/Symfony/web/app_dev.php/fr/login,1547110711,2969
 bffa39,::1,GET,http://localhost/Symfony/web/app_dev.php/login,1547110753,,200
 e74695,::1,GET,http://localhost/Symfony/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Dfr%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1547111052,18e1ef,200
 18e1ef,::1,GET,http://localhost/Symfony/web/app_dev.php/fr/platform,1547111052,,200
+ae98e5,::1,GET,http://localhost/Symfony/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Dfr%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1547118748,6b0cce,200
+6b0cce,::1,GET,http://localhost/Symfony/web/app_dev.php/fr/platform,1547118748,,200
